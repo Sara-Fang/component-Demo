@@ -1,0 +1,10 @@
+.show {
+  font-size: 40px;
+  opacity: 1;
+  transition: all 0.6s ease-in;
+}
+.hide {
+  opacity: 0;
+  font-size: 40px;
+  transition: all 0.6s ease-in;
+}
